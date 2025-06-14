@@ -1,2 +1,2 @@
-# Flutter-Apps
-A repository for mobile applications built on flutter framework
+# Currency Converter App
+A mobile application built on flutter framework
